@@ -1,3 +1,2 @@
-# Olá, mundo!
-Primeiro repositório
-Teste
+# Atividades-Python!
+Primeiro repositório - Escola da nuvem
